@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\bicola\bicola\bin\Debug\bicola.exe.config
+C:\Users\andre\source\repos\bicola\bicola\bin\Debug\bicola.exe
+C:\Users\andre\source\repos\bicola\bicola\bin\Debug\bicola.pdb
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.Form1.resources
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.Properties.Resources.resources
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.exe
+C:\Users\andre\source\repos\bicola\bicola\obj\Debug\bicola.pdb
